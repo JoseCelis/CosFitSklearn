@@ -1,4 +1,7 @@
 # HOBIT: Harmonic Oscillator hyBrid fIT
+
+![alt text](https://github.com/anamabo/HOBIT/blob/master/images/logo.png)
+
 ## Efficient fit of sine(cosine) functions using a hybrid method
 
 HOBIT is a Python library that combines the power of Hyperopt (https://github.com/hyperopt/hyperopt) with the flexibility of Sklearn oriented 
